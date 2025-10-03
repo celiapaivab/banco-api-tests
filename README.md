@@ -1,4 +1,4 @@
-Banco API Tests
+# Banco API Tests
 
 ## Visão Geral do Projeto
 Este projeto contém uma suíte de testes automatizados para a [Banco API](https://github.com/celiapaivab/banco-api).  
